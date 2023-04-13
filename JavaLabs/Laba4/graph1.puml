@@ -1,0 +1,44 @@
+@startuml
+class laba4.Graphics.Curve {
+- ArrayList<Point> points
+- String name
++ void addPoint(Point)
++ void draw()
+}
+class laba4.Graphics.Legend {
+- ArrayList<String> labels
++ void addLabel(String)
++ void draw()
+}
+class laba4.Graphics.Graph {
+- ArrayList<Curve> curves
+~ Axis xAxis
+~ Axis yAxis
+~ Grid grid
+~ Legend legend
++ void addCurve(Curve)
++ void draw()
+}
+class laba4.Graphics.Point {
+- double x
+- double y
++ void draw()
+}
+class laba4.Graphics.Main {
++ {static} void main(String[])
+}
+class laba4.Graphics.Grid {
+- int xSpacing
+- int ySpacing
++ void setSpacing(int,int)
++ void draw()
+}
+class laba4.Graphics.Axis {
+- double minValue
+- double maxValue
+- String label
++ void setRange(double,double)
++ void setLabel(String)
++ void draw()
+}
+@enduml
