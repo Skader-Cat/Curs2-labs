@@ -1,0 +1,1 @@
+{"Nodes":[{"Name":"q0","IsFinal":false,"leave_nodes":{"q1":["a"]}},{"Name":"q1","IsFinal":false,"leave_nodes":{"q0":["b"]}}],"Alphabet":["a","b","e"],"nodes_count":2}

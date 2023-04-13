@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "name": "q0",
+      "is_final": false,
+      "leave_nodes": {
+        "q1": [
+          "a"
+        ]
+      }
+    },
+    {
+      "name": "q1",
+      "is_final": false,
+      "leave_nodes": {
+        "q0": [
+          "b"
+        ]
+      }
+    }
+  ],
+  "alphabet": [
+    "a",
+    "b",
+    "e"
+  ],
+  "nodes_cound": 2
+}
