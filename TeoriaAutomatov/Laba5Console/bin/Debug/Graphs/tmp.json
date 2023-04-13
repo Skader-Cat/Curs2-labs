@@ -1,0 +1,1 @@
+{"nodes":[{"name":"q0","is_final":false,"leave_nodes":{"q1":["0"],"q3":["e"]}},{"name":"q1","is_final":false,"leave_nodes":{"q3":["1"],"q2f":["e"]}},{"name":"q2f","is_final":true,"leave_nodes":{"q1":["0"]}},{"name":"q3","is_final":false,"leave_nodes":{"q2f":["1"]}}],"alphabet":["0","1","e"],"nodes_cound":4}

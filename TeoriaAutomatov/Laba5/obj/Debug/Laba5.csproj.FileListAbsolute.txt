@@ -1,0 +1,16 @@
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\bin\Debug\Laba5.exe.config
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\bin\Debug\Laba5.exe
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\bin\Debug\Laba5.pdb
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\Laba5.csproj.AssemblyReference.cache
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\Laba5.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\App.g.cs
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\Laba5_MarkupCompile.cache
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\Laba5_MarkupCompile.lref
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\MainWindow.baml
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\Laba5.g.resources
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\Laba5.Properties.Resources.resources
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\Laba5.csproj.GenerateResource.cache
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\Laba5.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\Laba5.exe
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5\obj\Debug\Laba5.pdb
