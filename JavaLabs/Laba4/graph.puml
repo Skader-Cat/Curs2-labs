@@ -1,0 +1,51 @@
+@startuml
+class laba4.Graphics.Curve {
+- List<Point> points
+- Color color
++ void addPoint(Point)
++ void setColor(Color)
+}
+class laba4.Graphics.Graph {
+- int width
+- int height
+- List<Curve> curves
+- Axis xAxis
+- Axis yAxis
+- Grid grid
+- List<Annotation> annotations
++ void addCurve(Curve)
++ void setXAxis(Axis)
++ void setYAxis(Axis)
++ void setGrid(Grid)
++ void addAnnotation(Annotation)
++ void draw()
+}
+class laba4.Graphics.Point {
+- double x
+- double y
++ double getX()
++ double getY()
+}
+class laba4.Graphics.Grid {
+- int rows
+- int columns
++ void setRows(int)
++ void setColumns(int)
+}
+class laba4.Graphics.Axis {
+- int length
+- double minValue
+- double maxValue
+- String label
++ void setLength(int)
++ void setMinValue(double)
++ void setMaxValue(double)
++ void setLabel(String)
+}
+class laba4.Graphics.Annotation {
+- Point position
+- String text
++ void setPosition(Point)
++ void setText(String)
+}
+@enduml
