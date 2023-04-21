@@ -1,0 +1,5 @@
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5Console\obj\Release\Laba5Console.csproj.AssemblyReference.cache
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5Console\obj\Release\Laba5Console.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5Console\obj\Release\Laba5Console.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5Console\obj\Release\Laba5Console.exe
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba5Console\obj\Release\Laba5Console.pdb
