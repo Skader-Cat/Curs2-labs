@@ -1,0 +1,15 @@
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\bin\Debug\net7.0\Laba6.exe
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\bin\Debug\net7.0\Laba6.deps.json
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\bin\Debug\net7.0\Laba6.runtimeconfig.json
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\bin\Debug\net7.0\Laba6.dll
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\bin\Debug\net7.0\Laba6.pdb
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\obj\Debug\net7.0\Laba6.csproj.AssemblyReference.cache
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\obj\Debug\net7.0\Laba6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\obj\Debug\net7.0\Laba6.AssemblyInfoInputs.cache
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\obj\Debug\net7.0\Laba6.AssemblyInfo.cs
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\obj\Debug\net7.0\Laba6.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\obj\Debug\net7.0\Laba6.dll
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\obj\Debug\net7.0\refint\Laba6.dll
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\obj\Debug\net7.0\Laba6.pdb
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\obj\Debug\net7.0\Laba6.genruntimeconfig.cache
+D:\Projects\C#\Learning\TeoriaAutomatov\Laba6\obj\Debug\net7.0\ref\Laba6.dll
